@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/bigricksosa/YTLite/main/apps.json",
   "apps": [
     {
-      "name": "YouTube",
+      "name": "YouTube Plus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "bigricksosa",
       "subtitle": "Enhanced YouTube for iOS",
@@ -13,7 +13,7 @@
       "versionDescription": "Latest YouTube Plus build with YTLite tweaks including ad blocking, background playback, PiP support, download options, and more.",
       "downloadURL": "https://github.com/bigricksosa/YTLite/releases/download/ytp-1/YouTubePlus_5.2b4.ipa",
       "localizedDescription": "YouTube Plus (formerly YTLite) is a flexible enhancer for YouTube on iOS that combines multiple powerful tweaks:\n\n• Remove ads and sponsors\n• Background playback\n• Picture-in-Picture support\n• Video downloads\n• Return YouTube Dislikes\n• SponsorBlock integration\n• 4K video support\n• Custom player controls\n• And many more features\n\nThis is a modified version of the official YouTube app with enhanced features for a better viewing experience.",
-      "iconURL": "https://raw.githubusercontent.com/bigricksosa/YTLite/main/Resources/icon.png",
+      "iconURL": "https://i.postimg.cc/rpX498fT/Screenshot-2026-03-15-at-18-13-10-youtube-logo-youtube-icon-transparent-free-png-png-(PNG-Image-350.png",
       "tintColor": "#FF0000",
       "size": 150000000,
       "screenshotURLs": []
